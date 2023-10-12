@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+:root {
+    --mainColor: #437044;
+    --secundaryColor: #c7c7c7;
+}
+
+.toggleButton {
+    margin-top: 8px;
+    text-align: center;
+}
